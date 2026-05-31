@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kindasusman12.aternos.me",
+    "ip": "kindasusman12.aternos.me:51486",
     "port": 51486 ,
     "version": "",
     "try-creative": false
